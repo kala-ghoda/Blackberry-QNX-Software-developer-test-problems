@@ -1,0 +1,5 @@
+Python modules required to run the script:
+
+argparse
+statistics
+subprocess
